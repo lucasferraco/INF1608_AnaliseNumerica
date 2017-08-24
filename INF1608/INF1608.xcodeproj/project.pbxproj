@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3D3F587C1F4DE26100AA3445 /* taylor.c in Sources */ = {isa = PBXBuildFile; fileRef = 3D3F587A1F4DE26100AA3445 /* taylor.c */; };
 		3D6A6C0E1F45072700D38EBD /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 3D6A6C0D1F45072700D38EBD /* main.c */; };
 /* End PBXBuildFile section */
 
@@ -23,6 +24,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		3D3F587A1F4DE26100AA3445 /* taylor.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = taylor.c; sourceTree = "<group>"; };
+		3D3F587B1F4DE26100AA3445 /* taylor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = taylor.h; sourceTree = "<group>"; };
 		3D6A6C0A1F45072700D38EBD /* INF1608 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = INF1608; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D6A6C0D1F45072700D38EBD /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -58,6 +61,8 @@
 			isa = PBXGroup;
 			children = (
 				3D6A6C0D1F45072700D38EBD /* main.c */,
+				3D3F587A1F4DE26100AA3445 /* taylor.c */,
+				3D3F587B1F4DE26100AA3445 /* taylor.h */,
 			);
 			path = INF1608;
 			sourceTree = "<group>";
@@ -120,6 +125,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3D3F587C1F4DE26100AA3445 /* taylor.c in Sources */,
 				3D6A6C0E1F45072700D38EBD /* main.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -249,6 +255,7 @@
 				3D6A6C131F45072700D38EBD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
