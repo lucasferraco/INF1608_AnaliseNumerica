@@ -10,4 +10,5 @@ taught in 2017.2 at the Pontifical Catholic University of Rio de Janeiro (PUC-Ri
 
 ## Integrantes do Grupo:
 [Lucas Ferraço](https://github.com/lucasferraco)
+
 [Pedro G. Branco](https://github.com/pedrogomesbranco)
